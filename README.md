@@ -1,6 +1,7 @@
 # Building fully functional MVC Framework using PHP which can be installed and used using composer
 
-# Here are several features of the framework:
+ Here are several features of the framework:
+ 
  - Custom Routing
  - Composer
  - Controllers
