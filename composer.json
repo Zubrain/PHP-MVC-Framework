@@ -1,0 +1,17 @@
+{
+    "name": "admin/phpmvcframework",
+    "autoload": {
+        "psr-4": {
+            
+         "app\\": "./"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Zubrain",
+            "email": "ncjideama1@gmail.com"
+        }
+    ],
+    "require": {}
+}
